@@ -7,3 +7,12 @@ Deep Learning Mini Project:
 
   Overall, this experiment proved the necessity of careful model design and hyperparameter tweaking in getting ac-ceptable performance on picture classification tasks, espe-cially when limited computing resources and model size are available.
 
+## Setup
+
+`pip install tensorflow`
+`pip install matplotlib`
+`pip install numpy`
+
+## Run
+
+on jupyter notebook
