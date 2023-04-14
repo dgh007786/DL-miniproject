@@ -12,6 +12,7 @@ Deep Learning Mini Project:
 `pip install tensorflow`
 `pip install matplotlib`
 `pip install numpy`
+`pip install torchvision`
 
 ## Run
 
